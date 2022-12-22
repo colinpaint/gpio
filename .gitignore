@@ -1,0 +1,12 @@
+build/
+
+Makefile~
+*.~*
+*.*~
+
+*.map
+*.d
+*.o
+*.a
+
+test
